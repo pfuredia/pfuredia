@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pfuredia
+- 👋 Hi, I’m @pfuredia aka Peszleg-Füredi Andras, but just call Andras
 - 👀 I’m interested in programming and training dogs
 - 🌱 I’m currently learning web-development
 - 💞️ I’m happy to collaborate on basically anything.
