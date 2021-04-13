@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pfuredia
+- 👀 I’m interested in programming and training dogs
+- 🌱 I’m currently learning web-development
+- 💞️ I’m happy to collaborate on basically anything.
+- 📫 You can reach me via email(pfuredia@gmail.com). 
