@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pfuredia aka Peszleg-Füredi Andras, but just call Andras
-- 👀 I’m interested in programming and training dogs
-- 🌱 I’m currently learning web-development
+- 👋 Hi, I’m @pfuredia aka Peszleg-Füredi Andras, but just call me Andras
+- 👀 I’m interested in doing self-hosted projects
+- 🌱 I’m currently dev-ops and network development
 - 💞️ I’m happy to collaborate on basically anything.
-- 📫 You can reach me via email(pfuredia@gmail.com). 
+- 📫 You can reach me via email(pfuredia@pm.me). 
