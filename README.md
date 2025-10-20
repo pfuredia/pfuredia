@@ -2,4 +2,4 @@
 - 👀 I’m interested in doing self-hosted projects
 - 🌱 I’m currently dev-ops and network development
 - 💞️ I’m happy to collaborate on basically anything.
-- 📫 You can reach me via email(pfuredia@pm.me). 
+- 📫 You can reach me via pfuredia@pm.me. 
